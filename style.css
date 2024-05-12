@@ -1,0 +1,106 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    font-weight: 100;
+}
+
+header{ 
+    width: 1895px;
+    background-color: rgb(15, 15, 255);
+}
+
+footer{
+    background-color: rgb(39, 39, 255);
+    padding-bottom: 170px;
+    padding-top: 120px ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    float: top ;
+}
+div{
+    width: 1895px;
+    background-color: black;
+}
+
+footer a{
+    margin-left: 200px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(39, 39, 255);
+}
+
+header a{
+    margin-left: 315px;
+    margin-top: 300px;
+    color: white;
+    text-decoration: none;
+}
+
+ main img{
+    margin-right:-150;
+}
+
+.pepsi_logo{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 360px;
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.footer_pepsi_logo{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 360px;
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.follow_pepsi{
+    color: rgb(39, 39, 255);
+}
+
+.banner{
+width: 1895px;
+}
+
+.social_media{
+    border: 3px solid rgb(39, 39, 255);
+    width: 1700px;
+    margin-left: 110px;
+    margin-bottom: 15px;
+}
+
+.instagram{
+    height: 560px;
+}
+
+.facebook{
+    height: 560px;
+}
+
+.youtube{
+    height: 560px;
+}
+
+.social_media_emoticons{
+    height: 50px;
+    width: 50px;
+    margin-left: 1620px;
+    margin-bottom: 100px;
+    background-color: rgb(39, 39, 255) ;
+}
